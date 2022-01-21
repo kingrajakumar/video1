@@ -56,10 +56,10 @@ async def play(_, m: Message):
         [
             [
                 InlineKeyboardButton(
-                    text="乂ʙᴏᴛ ɢʀᴏᴜᴘ乂", url=f"https://t.me/Rockerz_support"
+                    text="乂ʙᴏᴛ ɢʀᴏᴜᴘ乂", url=f"https://t.me/DOSTI_GROUP_1234"
                 ),
                 InlineKeyboardButton(
-                    text="乂ʙᴏᴛ ᴄʜᴀɴɴᴇʟ乂", url=f"https://t.me/Rockerz_updates"
+                    text="乂ʙᴏᴛ ᴄʜᴀɴɴᴇʟ乂", url=f"https://t.me/ABOUT_ABHINAS"
                 ),
             ]
         ]
@@ -204,10 +204,10 @@ async def stream(_, m: Message):
         [
             [
                 InlineKeyboardButton(
-                    text="乂ʙᴏᴛ ɢʀᴏᴜᴘ乂", url=f"https://t.me/Rockerz_support"
+                    text="乂ʙᴏᴛ ɢʀᴏᴜᴘ乂", url=f"https://t.me/DOSTO_GROUP_1234"
                 ),
                 InlineKeyboardButton(
-                    text="乂ʙᴏᴛ ᴄʜᴀɴɴᴇʟ乂", url=f"https://t.me/Rockerz_updates"
+                    text="乂ʙᴏᴛ ᴄʜᴀɴɴᴇʟ乂", url=f"https://t.me/ABOUT_ABHINAS"
                 ),
             ]
         ]
